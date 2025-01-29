@@ -1,7 +1,5 @@
 # Aula 02
 
-https://chatgpt.com/g/g-679aabcdd97c8191a953c9a4b19fccef-ipogquestnaooficial 
-
 # Exercício de Matemática 📚
 
 ## **Enunciado**
@@ -136,6 +134,7 @@ Cada questão deve ter **cinco alternativas (A, B, C, D, E)**, sendo **uma corre
 
 ----
 
+https://chatgpt.com/g/g-679aabcdd97c8191a953c9a4b19fccef-ipogquestnaooficial 
 
 # 📌 IPOGQuest – Gerador de Questões para Todos os Cursos do IPOG - Não Oficial🚀  
 
